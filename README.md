@@ -1,3 +1,9 @@
+Forked Prerender package which handles plain, root "/" GET requests with a 200 response.
+Specifically implemented for use in AWS with their default root health checks.
+Changes implemented based on the guidance found [here](https://jakesen.github.io/aws/2016/10/31/setting-up-an-opsworks-stack-for-prerender.html)
+All original code is the product of the original owner from which this repo was forked.
+
+
 Prerender Service [![Stories in Ready](https://badge.waffle.io/prerender/prerender.png?label=ready&title=Ready)](https://waffle.io/prerender/prerender)
 ===========================
 
